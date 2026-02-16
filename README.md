@@ -1,4 +1,4 @@
-# Anirudh Navin Arbatti
+# 👋 Hey! I'm Rudy!
 
 Computer Science student focused on systems analysis, process improvement, and designing efficient technical solutions.
 
