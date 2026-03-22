@@ -18,19 +18,15 @@ Computer Science student focused on systems analysis, process improvement, and d
 ### 🛠️ Experience Highlights
 
 **Software Engineer @ Wholeviz** *(Sep 2025 – Dec 2025)*
-- Implemented **a Role-Based Access Control (RBAC) system** that enforces granular permissions across
-datasets, visualizations, accounts, and workspace actions
-- Integrated guided data-cleaning workflows that **reduced manual data preparation time by 60%** and allowing
-users to identify and resolve common data inconsistencies through an intuitive, step-by-step UI
-- Developed an **AI-driven recommendation engine** that enabled users to generate complex data visualizations **3x
-faster**, utilizing automated dataset profiling to suggest optimal chart types and layout transformations
+- Architected a granular **Role-Based Access Control (RBAC) system** using a **Django** backend and **Next.js** frontend, enforcing permissions across datasets, visualizations, and workspace actions
+- Integrated guided workflows that **reduced manual data preparation time by 60%**, allowing users to resolve complex inconsistencies through an intuitive, step-by-step UI
+- Developed an **AI-driven recommendation engine** that enabled users to generate data visualizations **3x faster**, utilizing automated dataset profiling to suggest optimal chart types and layout transformations
 
 
 **Research Data Analyst @ Modality.ai** *(May 2024 – Aug 2024)*
 - Architected an end-to-end data pipeline leveraging **OpenAI’s Whisper** to automate the transcription and
 linguistic analysis of patient audio, **reducing manual processing time by 85%**
-- Engineered a suite of high-precision NLP functions using **spaCy** and **NLTK** to extract **25+** linguistic markers to
-facilitate from clinical assessments with **a 92% reliability rate**
+- Engineered a suite of high-precision **NLP** functions using **spaCy** and **NLTK** to extract **25+** high-dimensional linguistic biomarkers from clinical assessments, achieving a **92% reliability rate**
 - Conducted **rigorous analytical validation** and comparative statistical modeling to **isolate diagnostic signals**
 between patient and control cohorts, culminating in a [published research paper](https://drive.google.com/file/d/1037A6JYgUu_BZvSihEMtJe-xj0Tstcak/view) on linguistic biomarkers for neurological disorders
 
@@ -58,9 +54,9 @@ between patient and control cohorts, culminating in a [published research paper]
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-* **Multi-Agent Orchestration:** Architected a robust **LangChain backend** to coordinate specialized AI agents for automated technical scoping and workflow generation.
-* **Intelligent Export Engine:** Engineered an autonomous **Exporter Agent** that synthesizes raw multi-agent memory into interactive architecture maps and project documentation.
-* **Dynamic Canvas UI:** Spearheaded a highly responsive **Next.js and Tailwind conversational UI**, allowing users to visualize real-time system architectures and interactively refine agentic outputs.
+* **Multi-Agent Orchestration:** Architected a robust multi-agent backend using **LangChain** and **FastAPI**, leveraging **LangGraph** for the stateful orchestration layer to automate complex software development planning
+* **Intelligent Export Engine:** Engineered an autonomous **Exporter Agent** that synthesizes raw multi-agent memory into interactive architecture maps and project documentation
+* **Dynamic Canvas UI:** Spearheaded a highly responsive **Next.js and Tailwind conversational UI**, allowing users to visualize real-time system architectures and interactively refine agentic outputs
 
 ---
 
@@ -69,9 +65,9 @@ between patient and control cohorts, culminating in a [published research paper]
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-* **Voice-First Interaction:** Developed an **AI-powered whiteboard** that enables users to create and modify canvas elements using **natural language processing** and voice commands.
-* **Session Persistence:** Engineered a cloud-sync service using an **Express-based gateway** and **Firebase Firestore** to manage complex, voice-generated canvas states.
-* **Real-Time Bridge:** Implemented an asynchronous client-side communication layer in **Next.js** to bridge the **Konva interface** with the centralized Node.js backend.
+* **Voice-First Interaction:** Developed an **AI-powered whiteboard** that enables users to create and modify canvas elements using **natural language processing** and voice commands
+* **Session Persistence:** Engineered a cloud-sync service using an **Express-based gateway** and **Firebase Firestore** to manage complex, voice-generated canvas states
+* **Real-Time Bridge:** Implemented an asynchronous client-side communication layer in **Next.js** to bridge the **Konva interface** with the centralized Node.js backend
 
 ---
 
@@ -80,9 +76,9 @@ between patient and control cohorts, culminating in a [published research paper]
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-* **Predictive Modeling:** Synthesized **10 years of historical data** across 50 regions to train a high-fidelity time-series model capturing long-term cyclical patterns and leading indicators.
-* **Feature Engineering:** Developed a pipeline for **temporal signal processing**, utilizing lagged feature transformations to extract predictive signals from high-dimensional socioeconomic datasets.
-* **Model Interpretability:** Applied SHAP and feature importance techniques to isolate key drivers of unrest, providing data-driven recommendations for policy analysis.
+* **Predictive Modeling:** Engineered a **Random Forest-based forecasting model** utilizing a decade of longitudinal data to capture shifting socioeconomic trends and cyclical patterns, accurately predicting regional unrest with a 30-day lead time
+* **Feature Engineering:** Developed a pipeline for **temporal signal processing**, utilizing lagged feature transformations to extract predictive signals from high-dimensional socioeconomic datasets
+* **Model Interpretability:** Applied SHAP and feature importance techniques to isolate key drivers of unrest, providing data-driven recommendations for policy analysis
 
 🚀 **[Live Demo](https://civil-unrest-forecaster.vercel.app/)**
 
