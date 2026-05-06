@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Rudy!
+# 👋 Hey! I'm Anirudh!
 
 Computer Science student focused on systems analysis, process improvement, and designing efficient technical solutions.
 
@@ -8,7 +8,7 @@ Computer Science student focused on systems analysis, process improvement, and d
 
 - 🎓 Studying **Computer Science** at The University of Toronto
 - 💼 Previously a **Software Engineer** at Wholeviz & **Research Data Analyst** at Modality.ai
-- 🔭 Currently working on **Agentic Project Mentor**
+- 🔭 Currently a **Software Developer Intern** at Ericsson
 - 🌱 Focusing on combining software development with systems analysis to deliver reliable, well-designed technical solutions
 - ☁️ I am an [AWS Certified Cloud Practitioner](https://www.credly.com/badges/528ab43f-3148-4c4e-9ad4-df8ae612f322/public_url) with a focus on architecting scalable, cloud-native AI systems
 
