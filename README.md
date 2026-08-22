@@ -7,7 +7,7 @@ Computer Science student focused on systems analysis, process improvement, and d
 ### 🚀 About Me
 
 - 🎓 Studying **Computer Science** at The University of Toronto
-- 💼 Previously a **Software Engineer** at Wholeviz & **Research Data Analyst** at Modality.ai
+- 💼 Previously a **Student Software Engineer** at Wholeviz & **Research Data Analyst** at Modality.ai
 - 🔭 Currently a **Software Developer Intern** at Ericsson
 - 🌱 Focusing on combining software development with systems analysis to deliver reliable, well-designed technical solutions
 - ☁️ I am an [AWS Certified Cloud Practitioner](https://www.credly.com/badges/528ab43f-3148-4c4e-9ad4-df8ae612f322/public_url) with a focus on architecting scalable, cloud-native AI systems
@@ -17,19 +17,18 @@ Computer Science student focused on systems analysis, process improvement, and d
 
 ### 🛠️ Experience Highlights
 
-**Software Engineer @ Wholeviz** *(Sep 2025 – Dec 2025)*
-- Architected a granular **Role-Based Access Control (RBAC) system** using a **Django** backend and **Next.js** frontend, enforcing permissions across datasets, visualizations, and workspace actions
-- Integrated guided workflows that **reduced manual data preparation time by 60%**, allowing users to resolve complex inconsistencies through an intuitive, step-by-step UI
-- Developed an **AI-driven recommendation engine** that enabled users to generate data visualizations **3x faster**, utilizing automated dataset profiling to suggest optimal chart types and layout transformations
+**Software Developer Intern @ Ericsson** *(May 2026 – Present)*
+- Designed and deployed multiple enterprise-grade, developer-focused **AI agents** to resolve legacy code deprecations and automate large-scale software upgrades, **accelerating development velocity by 4.8x**
+- Rigorously tested and evaluated **multi-agent workflows** to verify task accuracy, identify non-deterministic failure modes, and deliver **architecture recommendations** to ensure reliable production behavior
+- Engineered and integrated custom **automated scanning suites** into **CI/CD pipelines** to proactively intercept security threats, **cutting manual audit overhead by 35%** and **boosting vulnerability detection by 20%**
 
+**Student Software Engineer @ Wholeviz** *(Sep 2025 – Dec 2025)*
+- Created permission-aware UI components in **Next.js** backed by a **Django RBAC framework**, updating client-side state to conditionally render workspace layouts, dataset actions, and interactive visualizations
+- Integrated guided data-cleaning workflows that **reduced manual data preparation time by 60%**, allowing users to identify and resolve common data inconsistencies through an intuitive, step-by-step UI
 
 **Research Data Analyst @ Modality.ai** *(May 2024 – Aug 2024)*
-- Architected an end-to-end data pipeline leveraging **OpenAI’s Whisper** to automate the transcription and
-linguistic analysis of patient audio, **reducing manual processing time by 85%**
+- Built and optimized an end-to-end data pipeline leveraging **OpenAI’s Whisper** to automate the transcription and linguistic analysis of patient audio, **reducing manual processing time by 85%**
 - Engineered a suite of high-precision **NLP** functions using **spaCy** and **NLTK** to extract **25+** high-dimensional linguistic biomarkers from clinical assessments, achieving a **92% reliability rate**
-- Conducted **rigorous analytical validation** and comparative statistical modeling to **isolate diagnostic signals**
-between patient and control cohorts, culminating in a [published research paper](https://drive.google.com/file/d/1037A6JYgUu_BZvSihEMtJe-xj0Tstcak/view) on linguistic biomarkers for neurological disorders
-
 
 ---
 
@@ -48,6 +47,17 @@ between patient and control cohorts, culminating in a [published research paper]
 ---
 
 ### 🏗️ Featured Open Source / Personal Projects
+
+#### 🎓 [HourSpace - UofT CSC492 Capstone](https://github.com/CSC392-CSC492-Building-AI-ML-systems/OfficeHourSystem)
+> *A full-stack, enterprise-grade office-hour platform designed to scale academic support for UofT CS courses.*
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+* **Enterprise Architecture & Security:** Architected **HourSpace** and led a team of software engineers to deliver real-time queues, calendar scheduling, and attendance tracking - integrating **Shibboleth SSO** with **Role-Based Access Control (RBAC)** across students, TAs, and instructors
+* **Secure Scheduling & Verification:** Implemented dynamic instructor scheduling with recurring blocks, while building a **multi-modal student ID scanner** engineered with **zero persistent card data** retention to strictly comply with **FIPPA guidelines** and UofT privacy policies
+* **High-Scale Infrastructure:** Engineered scalable infrastructure targeting **500+ students** across active course sections, designed for **90%+ platform adoption** and a **55% boost in office-hour engagement**
+
+---
 
 #### 🤖 [Agentic Project Mentor - The Linux Foundation](https://github.com/CSC392-CSC492-Building-AI-ML-systems/AgenticMentor-Winter2026)
 > *An enterprise-grade multi-agent system designed to automate and scale software development planning.*
